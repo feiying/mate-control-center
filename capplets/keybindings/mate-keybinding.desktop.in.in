@@ -1,0 +1,12 @@
+[Desktop Entry]
+_Name=Keyboard Shortcuts
+_Comment=Assign shortcut keys to commands
+#Exec=/usr/bin/keybinding-properties.sh
+Exec=/usr/bin/mate-keybinding-properties
+Icon=preferences-desktop-keyboard-shortcuts
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=true
+Categories=System;GTK;Settings;
+OnlyShowIn=MATE;
